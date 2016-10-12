@@ -96,7 +96,7 @@ public class NNetworkView {
     }
 
     public void show(final Stage stage) {
-        stage.setTitle("Перцептронный нейрон");
+        stage.setTitle("Перцептронный нейрон который определяет символы интеграла или суммирования!");
         stage.setScene(scene);
         stage.show();
     }

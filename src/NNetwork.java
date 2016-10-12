@@ -42,10 +42,10 @@ public class NNetwork {
     public String NetworkResult() {
         if (S >= 0) {
             del = 1;
-            return "Крестик! S=" + S;
+            return "Интеграл! S=" + S;
         } else {
             del = 0;
-            return "Нолик! S=" + S;
+            return "Сумма! S=" + S;
         }
     }
 
